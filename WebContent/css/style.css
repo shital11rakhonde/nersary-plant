@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body {
+    background-color: #f0f8f5;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #2e8b57;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
